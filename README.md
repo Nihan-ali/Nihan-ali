@@ -1,28 +1,34 @@
-# Hi, I'm Nihan 👋
+# Hi there! 👋 I'm Nihan Ali
 
-🎓 CSE Final Year Student at SUST  
-💡 Passionate about Software Development, DevOps & AI/ML  
-🧠 Problem Solver | 2000+ problems solved | ICPC Regionalist  
-🚀 Always learning and building real-world solutions
+## 🎓 About Me
+- 🎯 Computer Science & Engineering Graduate (CGPA: 3.71/4.0)
+- 💻 Competitive Programmer | Expert on Codeforces (Max: 1699)
+- 🏆 ICPC Asia Dhaka Regional 2024 Participant (Ranked 78th)
+- 📧 nihanali95@gmail.com
 
-## 🛠️ Skills
-**Languages:** C++, Python, JavaScript, Java, C#, SQL  
-**Tools/Tech:** React, Node.js, .NET, Docker, AWS, Git, Linux  
-**Databases:** MySQL, MongoDB  
+## 🚀 Technical Skills
+**Languages:** C++ • JavaScript • Java • C# • Python  
+**Web:** React.js • Node.js • TypeScript • HTML/CSS  
+**Tools:** Git • Docker • AWS • Linux • .NET  
+**Databases:** MySQL • MongoDB
 
-## 📈 Competitive Programming
-- Codeforces Expert – [@Nihan](https://codeforces.com/profile/Nihan)
-- CodeChef 4★ – [@nihan](https://codechef.com/users/nihan)
-- ICPC Dhaka Regional 2024 – Ranked 78
+## 🏆 Competitive Programming Stats
+- 🔴 **Codeforces:** Expert (1699 rating) 
+- ⭐ **CodeChef:** 4★ (1802 rating)
+- 📊 **Problems Solved:** 2000+
+- 🎯 **ICPC:** Regional Qualifier
 
-## 💼 Notable Projects
-- 🔹 [SmartClinic](https://github.com/Nihan-ali/SmartClinic): Real-world desktop healthcare management system  
-- 🔹 [Course Management System](https://github.com/Nihan-ali/CourseManagementSystem): Web-based course registration  
-- 🔹 [Hotel Reservation System](https://github.com/Nihan-ali/CSE-334-HotelManagement): Booking platform with admin panel  
-- 🔹 [Bangla Book Genre Classification](https://www.kaggle.com/code/szshishir/banglabookclassification): AI/NLP-based genre detection
+## 🔥 Featured Projects
+- 🏥 **SmartClinic** - Healthcare Management System (Production)
+- 📚 **Course Management System** - Academic Platform
+- 🏨 **Hotel Reservation System** - Full-stack Booking Platform
+- 🤖 **Bangla NLP Classifier** - Deep Learning Model
 
-## 🧾 Certifications
-- Docker for Beginners – KodeKloud  
-- AWS Cloud Foundations & Developing – AWS Academy  
+## 📊 GitHub Stats
+![Nihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nihan-ali&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihan-ali&layout=compact&theme=radical)
 
-📫 **Contact:** nihanali95@gmail.com | [LinkedIn](https://linkedin.com/in/nihanali11)
+## 🎯 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nihan-ali)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Nihan)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/nihan)
