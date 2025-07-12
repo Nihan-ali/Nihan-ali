@@ -5,7 +5,7 @@
 - 💡 Passionate about building scalable software systems and exploring DevOps & AI/ML
 - 🧠 Strong problem solver with deep CS fundamentals and 2000+ solved problems
 - 💻 Competitive Programmer | Codeforces Expert (Max: 1699)
-- 🏆 ICPC Asia Dhaka Regional 2024 Participant (Ranked 78th)
+- 🏆 ICPC Asia Dhaka Regional 2024 Participant
 - 📧 Reach me: [nihanali95@gmail.com](mailto:nihanali95@gmail.com)
 
 ---
@@ -65,7 +65,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nihan-ali)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Nihan)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/nihan)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nihan.ali.750)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nihan.ali.11/)
 
 ---
 
